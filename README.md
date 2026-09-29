@@ -10,7 +10,7 @@ now building AI agent infrastructure and publishing independent research.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubershaikh)
 [![Website](https://img.shields.io/badge/jubershaikh.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jubershaikh.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--3546--3455-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3546-3455)
-[![Email](https://img.shields.io/badge/Email-zubairnuc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubairnuc@gmail.com)
+[![Email](https://img.shields.io/badge/Email-admin@jubershaikh.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@jubershaikh.com)
 
 </div>
 
@@ -91,7 +91,7 @@ Languages: English, Hindi, Urdu, Marathi
 
 🌐 [jubershaikh.com](https://jubershaikh.com) ·
 💼 [LinkedIn](https://www.linkedin.com/in/jubershaikh) ·
-✉️ [zubairnuc@gmail.com](mailto:zubairnuc@gmail.com)
+✉️ [admin@jubershaikh.com](mailto:admin@jubershaikh.com)
 
 ---
 
